@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/1/folders/1_yZD_wIyGPKbHIndPfz8SpKSokmlloOK
+  /:
+    url: https://content.da.live/pasahu/mysite/
+    type: markup
